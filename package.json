@@ -1,0 +1,25 @@
+{
+  "name": "sequelize_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlMenke/sequelize_hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlMenke/sequelize_hw/issues"
+  },
+  "homepage": "https://github.com/CarlMenke/sequelize_hw#readme",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.1"
+  }
+}
